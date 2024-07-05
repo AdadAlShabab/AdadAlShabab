@@ -18,4 +18,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adadalshabab&" alt="adadalshabab" /></p>
-<a href="https://app.daily.dev/adad"><img src="https://api.daily.dev/devcards/v2/QUWSEGfkrihIH5l18hHti.png?type=wide&r=n5k" width="652" alt="Adad's Dev Card"/></a>
+<a href="https://app.daily.dev/adad"><img src="https://api.daily.dev/devcards/v2/QUWSEGfkrihIH5l18hHti.png?type=wide&r=399" width="652" alt="Adad's Dev Card"/></a>
