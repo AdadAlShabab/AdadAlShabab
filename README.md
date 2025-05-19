@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adad Al Shabab</h1>
-<h3 align="center">Machine Learning Engineer || AI Educator & Istructor🧑‍💻</h3>
+<h3 align="center">Machine Learning Engineer || AI Educator & Instructor🧑‍💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adadalshabab&label=Profile%20views&color=0e75b6&style=flat" alt="adadalshabab" /> </p>
 
 Full-Stack AI/ML Engineer. I have worked as a Engineer for 3+ Years and instructor for past 2 years. I am passionate about leveraging Artificial Intelligence and Data to drive business growth and improve decision-making processes. Skilled in developing and deploying advanced machine learning models, utilizing deep learning techniques, and working with big data technologies. I have a proven track record of delivering high-quality results and collaborating with cross-functional teams to bring innovative solutions to market.
