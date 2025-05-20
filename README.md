@@ -7,7 +7,7 @@ Full-Stack AI/ML Engineer. I have worked as a Engineer for 3+ Years and instruct
 - 📫 How to reach me **sababadad74@gmail.com**
 - 👨🏻‍💻 HackerRank Profile : **https://www.hackerrank.com/profile/al_Shabab**
 - </> Codeforces : **https://codeforces.com/profile/al_sabab**
-  
+- 𝕏 Twitter/X : **https://x.com/adadsabab**
 <h3 align="left">Connect with me:</h3>
 
 ## 🌐 Socials:
