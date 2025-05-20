@@ -8,9 +8,9 @@ Full-Stack AI/ML Engineer. I have worked as a Engineer for 3+ Years and instruct
 - 👨🏻‍💻 HackerRank Profile : **https://www.hackerrank.com/profile/al_Shabab**
 - </> Codeforces : **https://codeforces.com/profile/al_sabab**
 -  𝕏 Twitter/X : **https://x.com/adadsabab**
-<h3 align="left">Connect with me:</h3>
 
-## 🌐 Socials:
+
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/adad74) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@sababadad74) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30577189) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/adadsabab?s=21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sababadad74@gmail.com) 
 
 # 💻 Tech Stack:
