@@ -7,6 +7,7 @@
 - 📫 How to reach me **sababadad74@gmail.com**
 - 👨🏻‍💻 HackerRank Profile : **https://www.hackerrank.com/profile/al_Shabab**
 - </> Codeforces : **https://codeforces.com/profile/al_sabab**
+- ☁️ Deployed AI Apps (Streamlit) : **https://share.streamlit.io/user/adadalshabab**
 
 
 ## 🌐 Connect with me through:
