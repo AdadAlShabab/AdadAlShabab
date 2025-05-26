@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **sababadad74@gmail.com**
 - 📱 Schedule a call via Calendly: **https://calendly.com/sabab_adad/30min**
-- 🎖️ Leetcode : https://leetcode.com/u/shabab_adad/
+- 🎖️ Leetcode : **https://leetcode.com/u/shabab_adad/**
 - 👨🏻‍💻 HackerRank Profile : **https://www.hackerrank.com/profile/al_Shabab**
 - </> Codeforces : **https://codeforces.com/profile/al_sabab**
 - ☁️ Deployed AI Apps (Streamlit) : **https://share.streamlit.io/user/adadalshabab**
